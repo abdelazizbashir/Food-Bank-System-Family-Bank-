@@ -1,7 +1,9 @@
 {
-    "java.project.sourcePaths": ["src"],
+    "java.project.sourcePaths": [
+        "src"
+    ],
     "java.project.outputPath": "bin",
     "java.project.referencedLibraries": [
-        "lib/**/*.jar"
+        "c:\\Users\\MOHAMED\\OneDrive\\المستندات\\Food_Bank_Final\\lib\\sqlite-jdbc-3.50.3.0.jar"
     ]
 }
